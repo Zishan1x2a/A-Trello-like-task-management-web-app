@@ -1,23 +1,76 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+.pnp.*
 
 # testing
 /coverage
+.nyc_output
+*.lcov
 
 # production
 /build
+dist
+.out
+.next
+.nuxt
+.vuepress/dist
+.svelte-kit/
+.docusaurus
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+.env.*.local
+!.env.example
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+lerna-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# cache
+.cache
+.parcel-cache
+.temp
+.vitepress/cache
+.vscode-test
+
+# package managers
+jspm_packages/
+bower_components
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# build artifacts
+build/Release
+lib-cov
+
+# others
+.pids
+*.pid
+*.seed
+*.pid.lock
+.lock-wscript
+.eslintcache
+.stylelintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.tern-port
+.serverless/
+.fusebox/
+.dynamodb/
+.firebase/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
