@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1755478990979",
+      "fullName": "zishan",
+      "email": "zishanansari2025@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755481403843",
+      "fullName": "afrin",
+      "email": "afrin123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755537238063",
+      "fullName": "Farheen",
+      "email": "farheen123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755584210319",
+      "fullName": "Aditya Rai",
+      "email": "aditya111@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755591360857",
+      "fullName": "Shalim",
+      "email": "shalim123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755591493612",
+      "fullName": "Radha",
+      "email": "radha123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1755592073094",
+      "fullName": "Ankush Verma",
+      "email": "ankush123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 1755622671361,
+      "fullName": "test",
+      "email": "test@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": 1755622727713,
+      "fullName": "AZS",
+      "email": "test12@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "boards": [
+    {
+      "id": "1755592129161",
+      "name": "College Work",
+      "background": "/static/media/P12.4c8ed41c6a8c46f17f04.jpg",
+      "lists": [
+        {
+          "id": "1",
+          "title": "To Do",
+          "cards": []
+        },
+        {
+          "id": "2",
+          "title": "In Progress",
+          "cards": [
+            {
+              "id": "1755592208629",
+              "title": "Learning ",
+              "dueDate": "2025-08-19",
+              "priority": "Medium",
+              "tags": [
+                "I am pro bro.."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Done",
+          "cards": [
+            {
+              "id": "1755592255047",
+              "title": "Exam",
+              "dueDate": "2025-08-19",
+              "priority": "Low",
+              "tags": [
+                "I am smart .."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
