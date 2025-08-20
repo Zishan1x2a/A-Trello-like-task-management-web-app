@@ -4,10 +4,15 @@
     <meta charset="utf-8" />
     <title>Redirecting...</title>
     <script type="text/javascript">
-      // Redirect all routes to index.html for React Router
-      var path = window.location.pathname;
-      var redirect = "/A-Trello-like-task-management-web-app/index.html#" + path;
-      window.location.replace(redirect);
+      // Redirect all routes to index.html for React Router (GitHub Pages)
+      (function() {
+        var path = window.location.pathname.replace(
+          "/A-Trello-like-task-management-web-app", 
+          ""
+        );
+        var redirect = "/A-Trello-like-task-management-web-app/index.html#" + path;
+        window.location.replace(redirect);
+      })();
     </script>
   </head>
   <body></body>
