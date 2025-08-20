@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/A-Trello-like-task-management-web-app/static/css/main.019da01b.css",
+    "main.js": "/A-Trello-like-task-management-web-app/static/js/main.572fafae.js",
+    "static/media/pic2.jpg": "/A-Trello-like-task-management-web-app/static/media/pic2.0499e5a854026404521d.jpg",
+    "static/media/P2.jpg": "/A-Trello-like-task-management-web-app/static/media/P2.bc61c0b8c267a985ef67.jpg",
+    "static/media/P8.jpg": "/A-Trello-like-task-management-web-app/static/media/P8.f4def98bceeac16f3f10.jpg",
+    "static/media/P1.jpg": "/A-Trello-like-task-management-web-app/static/media/P1.d08fbed56ec8fed646a7.jpg",
+    "static/media/pic1.jpg": "/A-Trello-like-task-management-web-app/static/media/pic1.0ab87fe913f7479becaf.jpg",
+    "static/media/P3.jpg": "/A-Trello-like-task-management-web-app/static/media/P3.4c4974480ce52c095f21.jpg",
+    "static/media/P4.jpg": "/A-Trello-like-task-management-web-app/static/media/P4.028df27af1b0c83cda9e.jpg",
+    "static/media/P11.jpg": "/A-Trello-like-task-management-web-app/static/media/P11.6340ed731719b5c7aa82.jpg",
+    "static/media/P7.jpg": "/A-Trello-like-task-management-web-app/static/media/P7.cf4e57353b9384bf54ae.jpg",
+    "static/media/P9.jpg": "/A-Trello-like-task-management-web-app/static/media/P9.34fd497f60056834f193.jpg",
+    "static/media/P5.jpg": "/A-Trello-like-task-management-web-app/static/media/P5.3844e7fb0ed39ed21725.jpg",
+    "static/media/P6.jpg": "/A-Trello-like-task-management-web-app/static/media/P6.4c7c4c6d7885d8f80d85.jpg",
+    "static/media/P12.jpg": "/A-Trello-like-task-management-web-app/static/media/P12.4c8ed41c6a8c46f17f04.jpg",
+    "static/media/P10.jpg": "/A-Trello-like-task-management-web-app/static/media/P10.9113d0ddb7e193b0fe94.jpg",
+    "static/media/pic3.jpg": "/A-Trello-like-task-management-web-app/static/media/pic3.e5ed60ec71eef6805330.jpg",
+    "index.html": "/A-Trello-like-task-management-web-app/index.html",
+    "main.019da01b.css.map": "/A-Trello-like-task-management-web-app/static/css/main.019da01b.css.map",
+    "main.572fafae.js.map": "/A-Trello-like-task-management-web-app/static/js/main.572fafae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019da01b.css",
+    "static/js/main.572fafae.js"
+  ]
+}
