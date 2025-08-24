@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/A-Trello-like-task-management-web-app/static/css/main.461cade1.css",
-    "main.js": "/A-Trello-like-task-management-web-app/static/js/main.80a877e5.js",
+    "main.css": "/A-Trello-like-task-management-web-app/static/css/main.ff47869c.css",
+    "main.js": "/A-Trello-like-task-management-web-app/static/js/main.3c5ad07e.js",
     "static/media/pic2.jpg": "/A-Trello-like-task-management-web-app/static/media/pic2.0499e5a854026404521d.jpg",
     "static/media/P2.jpg": "/A-Trello-like-task-management-web-app/static/media/P2.bc61c0b8c267a985ef67.jpg",
     "static/media/P8.jpg": "/A-Trello-like-task-management-web-app/static/media/P8.f4def98bceeac16f3f10.jpg",
@@ -18,11 +18,11 @@
     "static/media/P10.jpg": "/A-Trello-like-task-management-web-app/static/media/P10.9113d0ddb7e193b0fe94.jpg",
     "static/media/pic3.jpg": "/A-Trello-like-task-management-web-app/static/media/pic3.e5ed60ec71eef6805330.jpg",
     "index.html": "/A-Trello-like-task-management-web-app/index.html",
-    "main.461cade1.css.map": "/A-Trello-like-task-management-web-app/static/css/main.461cade1.css.map",
-    "main.80a877e5.js.map": "/A-Trello-like-task-management-web-app/static/js/main.80a877e5.js.map"
+    "main.ff47869c.css.map": "/A-Trello-like-task-management-web-app/static/css/main.ff47869c.css.map",
+    "main.3c5ad07e.js.map": "/A-Trello-like-task-management-web-app/static/js/main.3c5ad07e.js.map"
   },
   "entrypoints": [
-    "static/css/main.461cade1.css",
-    "static/js/main.80a877e5.js"
+    "static/css/main.ff47869c.css",
+    "static/js/main.3c5ad07e.js"
   ]
 }
